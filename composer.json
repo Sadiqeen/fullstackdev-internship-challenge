@@ -1,0 +1,15 @@
+{
+    "name": "saraw/fullstackdev-internship-challenge",
+    "authors": [
+        {
+            "name": "sadiqeen",
+            "email": "finixlllsarawut@gmail.com"
+        }
+    ],
+    "require": {},
+    "scripts": {
+        "post-autoload-dump": [
+            "cd exercise && composer install"
+        ]
+    }
+}
